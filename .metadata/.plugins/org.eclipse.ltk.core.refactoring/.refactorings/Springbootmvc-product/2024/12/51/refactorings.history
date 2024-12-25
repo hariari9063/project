@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Springbootmvc-product/src/main/resources/templates/searchproduct.html&apos; to &apos;searchform.html&apos;" description="Rename resource &apos;searchproduct.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/searchproduct.html" name="searchform.html" stamp="1734719204817" updateReferences="true"/>
+</session>
